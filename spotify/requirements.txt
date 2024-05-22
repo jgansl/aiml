@@ -1,0 +1,6 @@
+mlx
+notion-client
+pandas
+streamlit
+python-dotenv
+spotipy
